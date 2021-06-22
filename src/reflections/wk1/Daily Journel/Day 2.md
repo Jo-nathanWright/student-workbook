@@ -14,3 +14,6 @@
     - I will most likley use it to have multiple rules for one element (Div for example) but use a .example to add Specificity so I can have multiple Div rules with all of them working for their specific areas.
 - What problems do you think you could run into if you over-utilized the !important feature?
     - Since !important prioritizes the style that it's next to, it overrides all other style options for that item. So if I have a div.box thats green and I write !important next to an original div color, it will overwrite green for the original div color.
+
+## Afternoon Challenge
+[My Cool Site](https://github.com/Jo-nathanWright/CoolSite)
