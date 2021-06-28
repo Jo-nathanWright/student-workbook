@@ -9,4 +9,4 @@
     - If there is multiple people working on a project branched can be good to use because they take from the same base and split off into multiple diffent commits. This can also be used to test code changes without overriding the main code branch. These can be then merged later.
 
 - What is the difference between Git and GitHub
-    - Git is just saving ( and naming ) the changes or commits that we do, while GitHub stores the multiple git commits. It also is what allows multiple people to commit changes and let other people access those changes without needing to be on the developers computor.
+    - Git is just saving ( and naming ) the changes or commits that we do, while GitHub stores the multiple git commits. It also is what allows multiple people to commit changes and let other people access those changes without needing to be on the developers own computor.
