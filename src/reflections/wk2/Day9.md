@@ -1,9 +1,8 @@
-# Day 1 - INTRO TO JAVASCRIPT
-
+# Day 9 - TIMEOUTS, INTERVALS AND LOCAL STORAGE
 ## Daily Questions
 
-- What is Scope ?
+- What are the benefits of making a plan before starting to just write the code?
 
-- What is Hoisting ?
+- How do you find answers when you are stuck?
 
-- In what cases might you use let vs const vs var?
+- From the entire article what are your biggest takeaways?

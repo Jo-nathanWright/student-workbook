@@ -1,9 +1,9 @@
-# Day 1 - INTRO TO JAVASCRIPT
+# Day 8 - INTERACTING WITH THE DOM AND EVENTS
 
 ## Daily Questions
 
-- What is Scope ?
+- What are the main ways to write information to the console? Why/when should you use each style.
 
-- What is Hoisting ?
+- Which tab allows you to see the breakdown of HTML/CSS and how can this tab be useful when debugging HTML?
 
-- In what cases might you use let vs const vs var?
+- Outside of writing everything to the console, what is a better way to debug your code?

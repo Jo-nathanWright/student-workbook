@@ -1,9 +1,9 @@
-# Day 1 - INTRO TO JAVASCRIPT
+# Day 7 - JAVASCRIPT FUNCTIONS, OBJECTS, AND LOOPS
 
 ## Daily Questions
 
-- What is Scope ?
+- What are the three ways to syntactically write a function? What are the differences in how the function acts (if any)?
 
-- What is Hoisting ?
+- What is the difference between Parameters and Arguments?
 
-- In what cases might you use let vs const vs var?
+- What are higher order functions? Can you provide an example?
