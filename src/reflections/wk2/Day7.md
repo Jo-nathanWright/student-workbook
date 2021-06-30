@@ -17,3 +17,6 @@
 - What are higher order functions? Can you provide an example?
     - When a function accepts another function as a parameter, or returns a function
     - Array.prototype.map
+
+ ## Afternoon Challenge
+[Java Script Loops and Arrays](https://github.com/Jo-nathanWright/js-tests-loops-and-arrays)
