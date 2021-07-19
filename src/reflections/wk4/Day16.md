@@ -13,11 +13,14 @@
 
 - Summarize the 3 ways to avoid / fix Callback Hell
 
-    **1.** 
+    **1.** Keep Your code shallow
+    - This means to spilt up your functions to be more readable and to call them correctly.
 
-    **2.**
+    **2.** Modularize
+    - This is using the `JS module` system to seperate like code into differnet `JS Files` that call to each other.
 
-    **3.**
+    **3.** Handle every Error
+    - This is having fall back errors that can go off when A code pulled doesn't return. Is useful due to the fact that it will not break the code, it will just shut down the section that didn't work.
 
 ## Afternoon Challenge
 [Trivia](https://github.com/Jo-nathanWright/Trivia)
