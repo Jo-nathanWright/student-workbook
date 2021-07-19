@@ -20,3 +20,4 @@
     **3.**
 
 ## Afternoon Challenge
+[Trivia](https://github.com/Jo-nathanWright/Trivia)
