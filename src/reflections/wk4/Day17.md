@@ -1,4 +1,4 @@
-# Day 14 - HTTP REQUESTS CONTINUED
+# Day 17 - HTTP REQUESTS CONTINUED
 
 ## Daily Questions
 - What are the three states of a Promise?
