@@ -1,4 +1,4 @@
-# Day 19 - INTRO TO NODEJS
+# Day 22 - INTRO TO NODEJS
 
 ## Daily Questions
 
@@ -9,4 +9,4 @@
 - What are some of the challenges faced when deciding how to manage a many-to-many relationship that ultimately drive your decision on how to create it?
 
 ## Afternoon Challenge
-[Afternoon Challenge]()
+[SUPER ADVANCED GREGSLIST](https://github.com/Jo-nathanWright/gregslist-API)
