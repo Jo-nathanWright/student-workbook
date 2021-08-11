@@ -1,4 +1,4 @@
-# Day 31 - CHECKPOINT INTRODUCTION
+# Day 31 - Pair Programming
 
 ## Daily Questions
 
