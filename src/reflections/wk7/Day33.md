@@ -7,4 +7,4 @@
 - What are some benefits of taking into account the User Experience?
   - You end up with reaccouring customers and good reviews 
 - Why is the User Experience important?
-  - It's how your website's users or customers dirrectly interact with your website. If the experance is bad, they are less likely to come back or tell other people good things about the site
+  - It's how your website's users or customers dirrectly interact with your website. If the experience is bad, they are less likely to come back or tell other people good things about the site
