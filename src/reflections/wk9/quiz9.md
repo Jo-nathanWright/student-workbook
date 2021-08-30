@@ -38,6 +38,8 @@ The Definition of Done
 **8.** Give two examples of a user story:
 <!-- enter you answer in the space below -->
 ```
+As a Product owner, I want the backend to be finished today, so that we can test and debug it.
+As a User, I want to be able to change my info, so that if I move I can update my info
 ```
 **9.** During which ceremony is your Sprint Backlog created?
 <!-- enter you answer in the space below -->
