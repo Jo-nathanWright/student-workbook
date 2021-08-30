@@ -3,7 +3,7 @@
 **1.** What is Inheritance?
 <!-- enter you answer in the space below -->
 ```
-
+A Mechanism of basing an object or class upon another object or class
 ```
 **2.** What is the `Singleton` design pattern?
 <!-- enter you answer in the space below -->
