@@ -12,4 +12,4 @@
 [Login](https://github.com/Jo-nathanWright/login)
 
 ## Afternoon Challenge
-[GregsList Looking Sharp]()
+[GregsList Looking Sharp](https://github.com/Jo-nathanWright/gregslistCSharp)
